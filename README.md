@@ -37,5 +37,6 @@ Mnemonic    : orange sun vanish ...
 
 ## 🛡️ Warning
 Keep your private keys and mnemonic phrases secure and private.  
+This tool is for educational and development use.   
+Not recommended for production without security hardening.  
 
-This tool is for educational and development use. Not recommended for production without security hardening.
