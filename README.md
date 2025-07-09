@@ -12,7 +12,7 @@ Simple CLI tool to generate EVM-compatible wallets
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/evm-wallet-generator.git
+git clone https://github.com/why99me/evm-wallet-generator.git
 cd evm-wallet-generator
 npm install
 ```
