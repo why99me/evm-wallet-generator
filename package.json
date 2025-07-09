@@ -1,0 +1,22 @@
+{
+  "name": "evm-wallet-generator",
+  "version": "1.0.0",
+  "description": "Simple CLI tool to generate Ethereum/EVM-compatible wallets",
+  "main": "generate_wallets.js",
+  "scripts": {
+    "start": "node generate_wallets.js"
+  },
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "evm",
+    "ethers",
+    "generator",
+    "cli"
+  ],
+  "author": "why99me",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.0.0"
+  }
+}
